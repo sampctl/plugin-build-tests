@@ -14,11 +14,15 @@ If you know of a plugin that isn't here, please either add it or open an issue.
 
 ### 1. Install the Dependency
 
+You can also simply add the dependency directly to `pawn.json` if you prefer.
+
 * `sampctl package install samp-incognito/samp-streamer-plugin`
 
 ### 2. Add The `#include` Entry to `test.pwn`
 
-* `#include <streamer>`
+Add the dependency name as a commet too:
+
+* `#include <streamer> // samp-incognito/samp-streamer-plugin`
 
 ### 3. Done!
 
