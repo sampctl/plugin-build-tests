@@ -4,9 +4,10 @@
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
-		"sampctl/samp-stdlib",
+		"BigETI/pawn-memory",
+		"maddinat0r/sscanf",
 		"samp-incognito/samp-streamer-plugin",
-		"Zeex/samp-plugin-crashdetect",
-		"maddinat0r/sscanf"
+		"sampctl/samp-stdlib",
+		"Zeex/samp-plugin-crashdetect"
 	]
 }
