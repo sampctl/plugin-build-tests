@@ -1,5 +1,7 @@
 # plugin-build-tests
 
+[![Build Status](https://travis-ci.org/sampctl/plugin-build-tests.svg?branch=master)](https://travis-ci.org/sampctl/plugin-build-tests)
+
 This repository is for testing includes and plugins across the SA:MP community.
 
 It runs as a TravisCI cron-job and includes all major plugins as dependencies to
