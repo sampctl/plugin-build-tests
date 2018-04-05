@@ -8,6 +8,8 @@
 		"maddinat0r/sscanf",
 		"samp-incognito/samp-streamer-plugin",
 		"sampctl/samp-stdlib",
-		"Zeex/samp-plugin-crashdetect"
+		"Zeex/samp-plugin-crashdetect",
+		"IllidanS4/YSF",
+		"IllidanS4/PawnPlus"
 	]
 }
