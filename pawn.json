@@ -4,12 +4,13 @@
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
+		"sampctl/samp-stdlib",
+		"Zeex/samp-plugin-crashdetect",
 		"BigETI/pawn-memory",
 		"maddinat0r/sscanf",
 		"samp-incognito/samp-streamer-plugin",
-		"sampctl/samp-stdlib",
-		"Zeex/samp-plugin-crashdetect",
 		"IllidanS4/YSF",
-		"IllidanS4/PawnPlus"
+		"IllidanS4/PawnPlus",
+		"Southclaws/pawn-uuid"
 	]
 }
