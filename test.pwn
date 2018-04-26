@@ -13,6 +13,7 @@
 #include <PawnPlus> // IllidanS4/PawnPlus
 #include <uuid> // Southclaws/pawn-uuid
 #include <fsutil> // Southclaws/pawn-fsutil
+#include <rustext> // ziggi/rustext
 
 // -
 // include `main()` for running
