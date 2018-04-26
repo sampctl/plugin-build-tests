@@ -12,6 +12,7 @@
 		"IllidanS4/YSF",
 		"IllidanS4/PawnPlus",
 		"Southclaws/pawn-uuid",
-		"Southclaws/pawn-fsutil"
+		"Southclaws/pawn-fsutil",
+		"ziggi/rustext"
 	]
 }
