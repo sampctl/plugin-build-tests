@@ -12,6 +12,7 @@
 #include <YSF> // IllidanS4/YSF
 #include <PawnPlus> // IllidanS4/PawnPlus
 #include <uuid> // Southclaws/pawn-uuid
+#include <fsutil> // Southclaws/pawn-fsutil
 
 // -
 // include `main()` for running
