@@ -11,6 +11,7 @@
 		"samp-incognito/samp-streamer-plugin",
 		"IllidanS4/YSF",
 		"IllidanS4/PawnPlus",
-		"Southclaws/pawn-uuid"
+		"Southclaws/pawn-uuid",
+		"Southclaws/pawn-fsutil"
 	]
 }
