@@ -13,6 +13,7 @@
 		"IllidanS4/PawnPlus",
 		"Southclaws/pawn-uuid",
 		"Southclaws/pawn-fsutil",
-		"ziggi/rustext"
+		"ziggi/rustext",
+		"Southclaws/samp-plugin-mapandreas"
 	]
 }
