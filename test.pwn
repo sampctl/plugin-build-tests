@@ -15,6 +15,7 @@
 #include <fsutil> // Southclaws/pawn-fsutil
 #include <rustext> // ziggi/rustext
 #include <mapandreas> // Southclaws/samp-plugin-mapandreas
+#include <redis> // Southclaws/pawn-redis
 
 // -
 // include `main()` for running
