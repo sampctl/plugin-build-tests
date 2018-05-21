@@ -14,6 +14,7 @@
 		"Southclaws/pawn-uuid",
 		"Southclaws/pawn-fsutil",
 		"ziggi/rustext",
-		"Southclaws/samp-plugin-mapandreas"
+		"Southclaws/samp-plugin-mapandreas",
+		"Southclaws/pawn-redis"
 	]
 }
