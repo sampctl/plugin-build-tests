@@ -5,7 +5,7 @@
 	"output": "test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"Zeex/samp-plugin-crashdetect",
+		"AmyrAhmady/samp-plugin-crashdetect",
 		"BigETI/pawn-memory",
 		"maddinat0r/sscanf",
 		"samp-incognito/samp-streamer-plugin",
