@@ -1,11 +1,10 @@
 #include <open.mp>
 
-
 // -
 // Dependency includes
 // -
 
-#include <crashdetect>  // AmyrAhmady/samp-plugin-crashdetect:v4.22
+#include <crashdetect>  // AmyrAhmady/samp-plugin-crashdetect
 #include <memory>       // BigETI/pawn-memory
 #include <sscanf2>      // Y-Less/sscanf
 #include <streamer>     // samp-incognito/samp-streamer-plugin
@@ -13,9 +12,8 @@
 #include <uuid>         // Southclaws/pawn-uuid
 #include <fsutil>       // Southclaws/pawn-fsutil
 #include <redis>        // Southclaws/pawn-redis
+#include <Pawn.CMD>     // katursis/Pawn.CMD
 
-#define __cplusplus     // internal directive for Pawn.CMD in component mode
-#include <Pawn.CMD>     // katursis/Pawn.CMD/releases
 // -
 // include `main()` for running
 // -
